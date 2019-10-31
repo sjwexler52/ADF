@@ -38,7 +38,19 @@
 						}
 					},
 					"enableStaging": false
-				}
+				},
+				"inputs": [
+					{
+						"referenceName": "SourceDataset_5fh",
+						"type": "DatasetReference"
+					}
+				],
+				"outputs": [
+					{
+						"referenceName": "DestinationDataset_5fh",
+						"type": "DatasetReference"
+					}
+				]
 			}
 		],
 		"annotations": []
